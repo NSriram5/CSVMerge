@@ -20,4 +20,4 @@ Overall, this implementation made use of HashMaps, and LinkedList for collection
 A generic wildcard was used in one place as a matter of demonstration. When the list of datetimes is printed to a string, the LinkedList of dateTimes is structured to accept a wildcard generic as a storage parameter. This could allow different types of objects to be stored within the date time search-frequency data record.
 
 A brief UML of the system designed is shown below:
-![UML of the CSV Merge and Search](BU MET CS622 - HW3.jpeg)
+![UML of the CSV Merge and Search](/BUMETCS622-HW3.jpeg)
